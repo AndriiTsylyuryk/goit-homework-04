@@ -465,8 +465,8 @@ margin-bottom: 16px;
  
 }
 .footer-list{
-    display: flex;
-gap: 24px;
+display: flex;
+gap: 16px;
 justify-content: center;
 }
 
