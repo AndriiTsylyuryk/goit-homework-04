@@ -292,9 +292,9 @@ padding-bottom: 8px;
 
 
 .icon-list {
-    display: flex;
-justify-content: center;
+display: flex;
 gap: 24px;
+justify-content: center;
 }
 
 .icon-list-item {
